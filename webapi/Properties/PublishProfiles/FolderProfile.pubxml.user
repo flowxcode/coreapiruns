@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\iis\webapi-target</_PublishTargetUrl>
+    <History>True|2022-07-01T14:38:47.3011990Z;True|2022-07-01T16:37:55.4762193+02:00;True|2022-07-01T16:24:35.3204815+02:00;</History>
+  </PropertyGroup>
+</Project>
